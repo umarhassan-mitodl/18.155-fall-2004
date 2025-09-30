@@ -7,6 +7,8 @@ description: This resource includes lecture discourse on metric space, what the 
 file: /courses/18-155-differential-analysis-fall-2004/e06a3352309b1de0ca1de2ee239afd31_section1.pdf
 file_size: 143052
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

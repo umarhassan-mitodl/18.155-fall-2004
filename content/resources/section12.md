@@ -5,6 +5,8 @@ description: This resource includes discussion on the singular support of a temp
 file: /courses/18-155-differential-analysis-fall-2004/a27e62a9921427c6f15da631a591d0e7_section12.pdf
 file_size: 228621
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

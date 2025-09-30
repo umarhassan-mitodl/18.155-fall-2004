@@ -6,6 +6,8 @@ description: This resource contains lecture discourse on how by considering dual
 file: /courses/18-155-differential-analysis-fall-2004/917fa91f8c2a5fffaef2ccd3f81b9904_section6.pdf
 file_size: 146393
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-155-differential-analysis-fall-2004/c7b5319ed665e3620f34407d3e3b3221_eqn1.jpg
 file_size: 9731
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

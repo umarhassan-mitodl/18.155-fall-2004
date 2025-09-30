@@ -5,6 +5,8 @@ description: This resource gives lecture discourse on - de?nition of an inclusio
 file: /courses/18-155-differential-analysis-fall-2004/eabcd03165e3853abc3551da85c6ba84_section8.pdf
 file_size: 192061
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

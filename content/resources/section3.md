@@ -7,6 +7,8 @@ description: This resource contains lecture discourse on Measureability of Funct
 file: /courses/18-155-differential-analysis-fall-2004/447c5870100c43f0ded7978fc946e4f4_section3.pdf
 file_size: 88390
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

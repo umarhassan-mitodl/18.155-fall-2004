@@ -13,6 +13,8 @@ description: 'This resource contains lecture discourse which describes how an ou
 file: /courses/18-155-differential-analysis-fall-2004/f95f20b156942dd670f4ee9e30edb227_section2.pdf
 file_size: 74908
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

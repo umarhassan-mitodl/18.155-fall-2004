@@ -6,6 +6,8 @@ description: This resource contains problems 6, 11, 12, 13 and 14 from the cours
 file: /courses/18-155-differential-analysis-fall-2004/1d6e3dc1701c2dd4e51bd913e3313b4f_problem_set2.pdf
 file_size: 819229
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

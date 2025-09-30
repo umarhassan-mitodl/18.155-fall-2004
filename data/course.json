@@ -26,6 +26,7 @@
     "website": "18-155-differential-analysis-fall-2004"
   },
   "course_title": "Differential Analysis",
+  "hide_download": true,
   "course_description": "This is the first semester of a two-semester sequence on Differential Analysis. Topics include fundamental solutions for elliptic; hyperbolic and parabolic differential operators; method of characteristics; review of Lebesgue integration; distributions; fourier transform; homogeneous distributions; asymptotic methods.\n",
   "department_numbers": [
     "18"
@@ -36,6 +37,7 @@
     "content": "6c071c19-56e2-3b4c-0535-67bbf40e3078",
     "website": "18-155-differential-analysis-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions"
