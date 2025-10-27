@@ -10,8 +10,6 @@ description: 'This resource includes lecture discourse on application of what we
 file: /courses/18-155-differential-analysis-fall-2004/8948cbe270126e29997de01728d53d31_section11.pdf
 file_size: 136796
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: This resource gives problems on the lecture topics covered in class
 file: /courses/18-155-differential-analysis-fall-2004/367cb3a939cc40b0d2dea20d2fd8f47b_problems.pdf
 file_size: 346960
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

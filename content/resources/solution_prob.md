@@ -6,8 +6,6 @@ description: This resource provides solutions to some of the problems given for 
 file: /courses/18-155-differential-analysis-fall-2004/316b53904ce106dc33393334695469c8_solution_prob.pdf
 file_size: 247775
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

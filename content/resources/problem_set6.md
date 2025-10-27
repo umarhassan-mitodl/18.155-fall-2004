@@ -5,8 +5,6 @@ description: This resource contains five problems (39, 42, 50, 63 and 65) from t
 file: /courses/18-155-differential-analysis-fall-2004/9198071e620dd37ee08a964b9c538b8b_problem_set6.pdf
 file_size: 8380
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

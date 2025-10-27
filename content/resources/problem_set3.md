@@ -6,8 +6,6 @@ description: This resource contains five problems from the course notes (problem
 file: /courses/18-155-differential-analysis-fall-2004/030156a49f6bca89bae7be1a8e48f7af_problem_set3.pdf
 file_size: 496912
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
